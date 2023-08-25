@@ -5,7 +5,7 @@
 
 
 ## ✏️ Sobre mim
-Sou novata no ramo da tecnologia, mas não no geral, aliás, consumimos ela o tempo todo atualmente. Tenho 18 anos e faço faculdade de Análise e Desenvolvimento de Sistemas, estou tentando ver em que área me encaixo melhor, até o momento me interessei muito por Back-end, mas vai saber o que o futuro nos espera...
+Tenho 18 anos e faço faculdade de Análise e Desenvolvimento de Sistemas. Sou nova na área e até o momento me interessei por Back-end.
 
 
 ## 🔗 Sociais
