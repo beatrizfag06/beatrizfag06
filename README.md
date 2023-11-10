@@ -6,7 +6,7 @@
 
 ## ✏️ Sobre mim
 Tenho 18 anos e faço faculdade de Análise e Desenvolvimento de Sistemas.
-<p>Além da faculdade, estou no bootcamp de Back-end Java na DIO. </p>
+<p> Sempre tive grande paixão por tecnologia e aqui me encontrei. </p>
 
 
 ## 🔗 Sociais
